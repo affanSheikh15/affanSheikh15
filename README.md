@@ -1,30 +1,30 @@
-<!-- Animated Header GIF -->
+ Rick & Morty Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG1peWlpdjlrbXpwazVxZmVjbDZlZzg0ZGMzbHRjNTZzNW94c2NjbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Yv1cuWNk8XnY1c0KUR/giphy.gif" width="500px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG1peWlpdjlrbXpwazVxZmVjbDZlZzg0ZGMzbHRjNTZzNW94c2NjbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Yv1cuWNk8XnY1c0KUR/giphy.gif" width="500"/>
 </p>
 
 <h1 align="center">Hey, I'm Affan 👋</h1>
-<h3 align="center">SQA Engineer • Automation Tester • Playwright • Selenium • JavaScript</h3>
+<h3 align="center">SQA Engineer • Automation Tester • Playwright • Selenium • Data Scientist</h3>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🔍 Passionate about **Software Quality Assurance** & **Automation Testing**  
-- 🤖 Hands-on with **Playwright**, **Selenium**, **POM**, **xUnit**, **NUnit**  
+- 🔍 Strong passion for **Software Quality Assurance** & **Automation Testing**  
+- 🤖 Practical experience with **Playwright**, **Selenium WebDriver**, **POM**, **xUnit**, **NUnit**  
 - 🧪 Skilled in **Manual Testing**, **STLC**, **Bug Reporting**, **Regression**, **UAT**, **API Testing**  
-- ⚙️ Building robust automation frameworks using **JavaScript**, **Java**, **Python (basics)**  
-- 🚀 Experience with **CI/CD pipelines** using **GitHub Actions**  
-- 🌐 Tested real-world web apps (Ecommerce, UI flows, functional + API)  
-- 🎯 Goal: Become a strong **SDET / Automation QA Engineer**
+- 📊 Background in **Data Science**, **Machine Learning**, **Model Deployment**, **Data Wrangling**  
+- ⚙️ Building scalable automation frameworks using **JavaScript**, **Java**, **Python**  
+- 🚀 Working with **GitHub Actions CI**, **IntelliJ IDEA**, **VSCode**, **Git**, **Jira**  
+- 🎯 Goal: Become a high-impact **SDET / Automation QA Engineer**
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠️ Tech Stack (Combined SQA + Data Science)
 
-### **Programming**
+### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 
 ### **Automation & Testing**
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=playwright)
@@ -32,20 +32,33 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=swagger)
 
-### **Frameworks / Concepts**
+### **Data Science / ML**
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
+
+---
+
+## ⚙️ Frameworks & Concepts
 ![POM](https://img.shields.io/badge/-Page%20Object%20Model-black?style=for-the-badge)
 ![xUnit](https://img.shields.io/badge/-xUnit-black?style=for-the-badge)
 ![NUnit](https://img.shields.io/badge/-NUnit-black?style=for-the-badge)
+![ML Models](https://img.shields.io/badge/-ML%20Models-black?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-black?style=for-the-badge)
 
-### **Tools**
+---
+
+## 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira)
 
 ---
+
 
 ## 🚀 Highlighted Projects  
 
