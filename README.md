@@ -51,15 +51,15 @@
 
 ### 📌 Playwright Automation Framework (JavaScript)  
 Custom POM + GitHub Actions CI/CD  
-**→ [View Project](YOUR_REPO_LINK)**
+**→ [View Project](https://github.com/affanSheikh15/daraz-playwright-e2e-automation)**
 
 ### 📌 Selenium WebDriver Automation  
 Cross-browser suite with TestNG / NUnit  
-**→ [View Project](YOUR_REPO_LINK)**
+**→ [View Project](https://github.com/affanSheikh15/QA-Project)**
 
-### 📌 Daraz Functional Testing Management  
-UI + API testing with Postman & Swagger  
-**→ [View Project](YOUR_REPO_LINK)**
+### 📌 NLP-Text-Classification ChatBot 
+Basic Chatbot for sentiment analyis on pre-trained model 
+**→ [View Project](https://github.com/affanSheikh15/NLP-Text-Classification)**
 
 ---
 
@@ -82,10 +82,10 @@ UI + API testing with Postman & Swagger
 
 ## 💬 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/affan-sheikh">
+  <a href="https://www.linkedin.com/in/affansheikh1/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:affansheikh@gmail.com">
+  <a href="mailto:affansheikh9871@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
