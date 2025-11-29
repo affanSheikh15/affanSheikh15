@@ -19,7 +19,7 @@
 
 ---
 
-# 🛠️ Tech Stack (Combined SQA + Data Science)
+# 🛠️ Tech Stack 
 
 ### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
