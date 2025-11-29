@@ -1,4 +1,3 @@
- Rick & Morty Animated Header -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG1peWlpdjlrbXpwazVxZmVjbDZlZzg0ZGMzbHRjNTZzNW94c2NjbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Yv1cuWNk8XnY1c0KUR/giphy.gif" width="500"/>
 </p>
