@@ -1,21 +1,21 @@
-<!-- Animated Rick Header GIF -->
+<!-- Animated Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/11Tsyjflf2xq2A/giphy.gif" width="600px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG1peWlpdjlrbXpwazVxZmVjbDZlZzg0ZGMzbHRjNTZzNW94c2NjbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Yv1cuWNk8XnY1c0KUR/giphy.gif" width="500px"/>
 </p>
 
 <h1 align="center">Hey, I'm Affan 👋</h1>
-<h3 align="center">SQA Engineer | Automation Tester | Playwright & Selenium | JavaScript</h3>
+<h3 align="center">SQA Engineer • Automation Tester • Playwright • Selenium • JavaScript</h3>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🔍 Dedicated to **Software Quality Assurance** & **Automation Testing**  
-- 🤖 Hands-on with **Playwright**, **Selenium WebDriver**, **POM**, **xUnit**, **NUnit**  
+- 🔍 Passionate about **Software Quality Assurance** & **Automation Testing**  
+- 🤖 Hands-on with **Playwright**, **Selenium**, **POM**, **xUnit**, **NUnit**  
 - 🧪 Skilled in **Manual Testing**, **STLC**, **Bug Reporting**, **Regression**, **UAT**, **API Testing**  
-- ⚙️ Building automation frameworks using **JavaScript**, **Java**, **Python (basics)**  
-- 🚀 Implementing **CI/CD** with **GitHub Actions**  
-- 🔍 Strong in locators, waits, debugging & cross-browser testing  
-- 🎯 Target: Grow as a top-tier **SDET / Automation QA Engineer**
+- ⚙️ Building robust automation frameworks using **JavaScript**, **Java**, **Python (basics)**  
+- 🚀 Experience with **CI/CD pipelines** using **GitHub Actions**  
+- 🌐 Tested real-world web apps (Ecommerce, UI flows, functional + API)  
+- 🎯 Goal: Become a strong **SDET / Automation QA Engineer**
 
 ---
 
@@ -48,14 +48,13 @@
 ---
 
 ## 🚀 Highlighted Projects  
-*(Add your actual repo links in place of “YOUR_REPO_LINK”)*
 
 ### 📌 Playwright Automation Framework (JavaScript)  
-Custom POM + CI/CD pipeline  
+Custom POM + GitHub Actions CI/CD  
 **→ [View Project](YOUR_REPO_LINK)**
 
-### 📌 Selenium WebDriver Automation (Java)  
-Cross-browser testing suite with TestNG / NUnit  
+### 📌 Selenium WebDriver Automation  
+Cross-browser suite with TestNG / NUnit  
 **→ [View Project](YOUR_REPO_LINK)**
 
 ### 📌 Daraz Functional Testing Management  
@@ -66,7 +65,7 @@ UI + API testing with Postman & Swagger
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=affanSheikh15&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://streak-stats.demolab.com?user=affanSheikh15&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanSheikh15&layout=compact&theme=tokyonight" />
 </p>
 
@@ -81,6 +80,12 @@ UI + API testing with Postman & Swagger
 
 ---
 
-## 💬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/affan-sheikh)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:affansheikh@gmail.com)
+## 💬 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/affan-sheikh">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:affansheikh@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
