@@ -1,6 +1,6 @@
-<!-- Rick & Morty Style Animated Header -->
+<!-- Animated Rick Header GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/header.svg" width="600px"/>
+  <img src="https://media.giphy.com/media/11Tsyjflf2xq2A/giphy.gif" width="600px"/>
 </p>
 
 <h1 align="center">Hey, I'm Affan 👋</h1>
@@ -9,18 +9,17 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🔍 Passionate about **Software Quality Assurance** & **Automation Testing**  
-- 🤖 Hands-on experience with **Playwright**, **Selenium WebDriver**, **POM**, **xUnit**, **NUnit**  
-- 🧪 Strong in **Manual Testing**, **STLC**, **Bug Reporting**, **Regression**, **UAT**, **API Testing**  
-- ⚙️ Building scalable automation frameworks using **JavaScript**, **Java**, **Python** (basics)  
-- 🚀 Implementing **CI/CD** using **GitHub Actions**  
-- 🌐 Experience testing real-world web apps (Daraz, Ecommerce flows, UI/Functional Testing)  
-- 📈 Learning advanced automation patterns & performance optimization  
-- 🎯 Goal: Become a top-tier **SDET / Automation QA Engineer**
+- 🔍 Dedicated to **Software Quality Assurance** & **Automation Testing**  
+- 🤖 Hands-on with **Playwright**, **Selenium WebDriver**, **POM**, **xUnit**, **NUnit**  
+- 🧪 Skilled in **Manual Testing**, **STLC**, **Bug Reporting**, **Regression**, **UAT**, **API Testing**  
+- ⚙️ Building automation frameworks using **JavaScript**, **Java**, **Python (basics)**  
+- 🚀 Implementing **CI/CD** with **GitHub Actions**  
+- 🔍 Strong in locators, waits, debugging & cross-browser testing  
+- 🎯 Target: Grow as a top-tier **SDET / Automation QA Engineer**
 
 ---
 
-## 🛠️ Tech Stack (Clean & Professional)
+## 🛠️ Tech Stack  
 
 ### **Programming**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -43,22 +42,24 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira)
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Highlighted Projects  
+*(Add your actual repo links in place of “YOUR_REPO_LINK”)*
 
-### 📌 **Playwright Automation Framework (JavaScript)**
-Structured POM architecture built with Playwright & GitHub Actions CI.  
+### 📌 Playwright Automation Framework (JavaScript)  
+Custom POM + CI/CD pipeline  
 **→ [View Project](YOUR_REPO_LINK)**
 
-### 📌 **Selenium WebDriver Automation**
-Cross-browser flows with TestNG / NUnit + Page Object Model.  
+### 📌 Selenium WebDriver Automation (Java)  
+Cross-browser testing suite with TestNG / NUnit  
 **→ [View Project](YOUR_REPO_LINK)**
 
-### 📌 **Daraz Functional Testing Management**
-52+ test cases, full UI + API validation using Postman & Swagger.  
+### 📌 Daraz Functional Testing Management  
+UI + API testing with Postman & Swagger  
 **→ [View Project](YOUR_REPO_LINK)**
 
 ---
@@ -72,17 +73,14 @@ Cross-browser flows with TestNG / NUnit + Page Object Model.
 ---
 
 ## 🔗 Project Categories  
-### 🔵 Data Science (Old Projects)  
+### 🔵 Data Science Projects  
 [Click Here](https://github.com/affanSheikh15?tab=repositories&q=topic:data-science)
 
-### 🟠 SQA & Automation  
+### 🟠 SQA & Automation Projects  
 [Click Here](https://github.com/affanSheikh15?tab=repositories&q=topic:automation-testing)
 
 ---
 
 ## 💬 Connect with Me  
-<p>
-<a href="https://www.linkedin.com/in/affan-sheikh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:affansheikh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/affan-sheikh)  
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:affansheikh@gmail.com)
