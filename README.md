@@ -112,7 +112,7 @@ const affan = {
 <tr>
 <td width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41fb-b5f0-881da5b1a1c3.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
 
 ### 🤖 [NLP Chatbot](https://github.com/affanSheikh15/NLP-Text-Classification)
 **Sentiment Analysis AI**
@@ -123,9 +123,7 @@ const affan = {
 </td>
 <td width="50%">
 
-<img src="https://i.imgur.com/W4mPNxW.gif" width="100%">
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
 
 ### 📂 [More Projects](https://github.com/affanSheikh15?tab=repositories)
 **15+ Repos | 500+ Commits**
@@ -147,8 +145,10 @@ const affan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=affanSheikh15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=affanSheikh15&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=FFFFFF&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=affanSheikh15&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=667eea&currStreakLabel=FFFFFF" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=affanSheikh15&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=f093fb&point=FFFFFF&area_color=667eea&title_color=FFFFFF&area=true&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=affanSheikh15&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 
